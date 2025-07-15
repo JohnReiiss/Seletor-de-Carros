@@ -74,8 +74,6 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 git clone https://github.com/JohnReiiss/Spotify-Clone.git
 ````
 - Abra o arquivo index.html em seu navegador
-- Acesse a versão online: Visualizar Projeto
-- Para consumir a API rodando o servidor node express localmente digite no terminal "node server.js"
 
 ---
 
